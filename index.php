@@ -5,6 +5,7 @@
     <body>
         <?php
             echo "<p>Hello World!</p>
+    	    echo "<p>Version 1.0</p>
             echo ' 
             <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
             <html>
